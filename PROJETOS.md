@@ -2,6 +2,13 @@
 
 Este documento descreve padrões para entrega de projetos para as disciplinas do curso de Engenharia de Software ministradas pelo professor Alan R. Fachini.
 
+## DATAS
+
+* *24/10* Entrega da primeira versão do trabalho escrito
+* *05/12* Entrega da versão final do trabalho escrito e apresentações
+
+As apresentações devem ter entre 15 e 20 minutos.
+
 ## BONS PROJETOS
 
 Bons projetos vêm de estudantes escolhendo uma área de aplicação na qual eles estão interessados, ou escolhendo algum subcampo de aplicação que eles querem explorar mais. Então, escolha um tema pelo qual você está, ou pode ficar apaixonado! Seja corajoso ao invés de tímido, e sinta-se à vontade para propor coisas ambiciosas com as quais você está animado. Só não se esqueça de pedir ajuda ao professor se você não tiver certeza de como começar.
