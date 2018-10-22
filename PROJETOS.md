@@ -34,6 +34,8 @@ Os textos finais dos projetos devem ter no mínimo 8 páginas (incluindo apêndi
 
 Nos nossos artigos seguimos o [formato da SBC](http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos). Por favor use o template no formato LaTeX. O uso do LaTeX já lhe confere credibilidade junto ao professor :)
 
+Entregar o artigo no formato PDF pelo ava, e-mail do professor ou trazer em um pendrive no dia da entrega.
+
 A seguir descrevemos o que é esperado em cada sessão do artigo.
 
 ### 1 RESUMO
